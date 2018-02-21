@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Damages</string>
+    <string name="txtCode">Code</string>
+    <string name="txtCity">City</string>
+    <string name="txtTitleDate">Dates</string>
+    <string name="txtNotes">Note</string>
+    <string name="description">Description</string>
+    <string name="error_db_add">Damage couldn\'t be saved</string>
+    <string name="select_date">Select a date</string>
+    <string name="error_empty_field">Please fill all fields</string>
+    <string name="delete_damage">Deleting damage</string>
+    <string name="delete_damage_message">Are you sure?</string>
+</resources>
